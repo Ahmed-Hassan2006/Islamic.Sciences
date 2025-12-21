@@ -5,22 +5,13 @@
     "admin_msg": "",
     "tools": [
         {
-            "id": "t2",
+            "id": "t1",
             "name": "مولد كلمات المرور",
             "filename": "t2.bin",
             "link": "https://drive.google.com/uc?export=download&id=1Jz0UeW9ydNK_Va7GgAj5Ibm9uaQdyy5z",
             "category": "الأمان والتشفير",
             "description": "هل سبق لك أن هناك موقع أو خدمة صارمة في تكوين كلمات المرور، هذه الأداة سوف تحل لك هذه المشكلة.",
-            "version": "1.1"
-        },
-        {
-            "id": "t1",
-            "name": "معالج النصوص",
-            "filename": "t1.bin",
-            "link": "https://drive.google.com/uc?export=download&id=1Jz0UeW9ydNK_Va7GgAj5Ibm9uaQdyy5z",
-            "category": "معالجة النصوص",
-            "description": "هذه الأداة يمكنها استخراج الروابط من النصوص والبريد الاكتروني زائد تنظيف النص أو استبدال شيء في النص: كل هذا مع الأداة هذه والمزيد.",
-            "version": "1.1"
+            "version": "1.0"
         }
     ]
 }

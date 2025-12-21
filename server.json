@@ -8,8 +8,8 @@
             "id": "t1",
             "name": "أداة معالج النصوص",
             "filename": "tool1.bin",
-            "link": "",
-            "category": "",
+            "link": "https://drive.google.com/uc?export=download&id=1BE67jqBHT8cG0S8J3ofEzciUnq3x2PEW",
+            "category": "معالجة النصوص",
             "description": "تقوم هذه الأداة بتحليل النصوص ومعالجتها: ويمكنها استخراج الروابط أو البريد الاقتروني من النصوص وغيره الكثير.",
             "version": "1.0"
         },

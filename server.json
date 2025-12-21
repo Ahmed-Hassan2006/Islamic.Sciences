@@ -1,5 +1,5 @@
 {
-    "version": "1.4",
+    "version": "1.5",
     "url": "https://example.com/update_v1.5.exe",
     "welcome_msg": "مرحبا بك في البرنامج: هذا الاصدار تجريبي، وسوف نقوم باصدار النسخة الرسمية قريبا شكرً على تنزيل برنامجنا",
     "admin_msg": "",
@@ -8,8 +8,8 @@
             "id": "t1",
             "name": "أداة معالج النصوص",
             "filename": "tool1.bin",
-            "link": "https://drive.google.com/uc?export=download&id=1BE67jqBHT8cG0S8J3ofEzciUnq3x2PEW",
-            "category": "معالجة النصوص",
+            "link": "",
+            "category": "",
             "description": "تقوم هذه الأداة بتحليل النصوص ومعالجتها: ويمكنها استخراج الروابط أو البريد الاقتروني من النصوص وغيره الكثير.",
             "version": "1.0"
         },

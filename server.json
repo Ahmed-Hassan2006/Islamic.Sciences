@@ -1,18 +1,98 @@
 {
-  "version": "1.5",
-  "url": "https://example.com/update_v1.5.exe",
-  "welcome_msg": "أهلاً بك في الإصدار المطور. تم إضافة نظام التحكم بالأدوات عن بعد!",
-  "admin_msg": "تنبيه: سيتم إجراء صيانة للخادم غداً الساعة 10 مساءً.",
-  "tools": [
-    {"id": "t1", "name": "أداة فحص الشبكة", "filename": "tool1.bin", "link": "https://drive.google.com/uc?export=download&id=1BE67jqBHT8cG0S8J3ofEzciUnq3x2PEW", "category": "معالجة النصوص", "description": "تقوم هذه الأداة بتحليل النصوص ومعالجتها: ويمكنها استخراج الروابط أو البريد الاقتروني من النصوص وغيره الكثير.", "version": "1.0"},
-    {"id": "t2", "name": "منظف الملفات المؤقتة", "filename": "cleaner.bin", "link": "https://drive.google.com/uc?export=download&id=1Jz0UeW9ydNK_Va7GgAj5Ibm9uaQdyy5z", "category": "الصيانة", "description": "حذف الملفات الزائدة لتسريع أداء نظام التشغيل بشكل ملحوظ.", "version": "1.0"},
-    {"id": "t3", "name": "محلل الذاكرة", "filename": "ram_fix.bin", "link": "https://site.com/f3.bin", "category": "الصيانة", "description": "تحرير مساحة الرام المغلقة من قبل العمليات غير المستجيبة.", "version": "1.2"},
-    {"id": "t4", "name": "تشفير النصوص", "filename": "crypto.bin", "link": "https://site.com/f4.bin", "category": "الأمن", "description": "تشفير النصوص والملفات باستخدام خوارزميات AES-256 المتطورة.", "version": "1.0"},
-    {"id": "t5", "name": "مدير العمليات", "filename": "task_pro.bin", "link": "https://site.com/f5.bin", "category": "أدوات النظام", "description": "بديل متطور لمدير المهام التقليدي مع عرض تفصيلي لاستهلاك الموارد.", "version": "3.0"},
-    {"id": "t6", "name": "مراقب الحرارة", "filename": "temp_mon.bin", "link": "https://site.com/f6.bin", "category": "أدوات النظام", "description": "عرض درجة حرارة المعالج وكرت الشاشة لحظة بلحظة.", "version": "1.1"},
-    {"id": "t7", "name": "تحويل الصيغ", "filename": "convert.bin", "link": "https://site.com/f7.bin", "category": "عام", "description": "تحويل الصور والمستندات بين الصيغ المختلفة بسرعة عالية.", "version": "2.0"},
-    {"id": "t8", "name": "مولد كلمات المرور", "filename": "pass_gen.bin", "link": "https://site.com/f8.bin", "category": "الأمن", "description": "توليد كلمات مرور قوية ومعقدة يصعب اختراقها.", "version": "1.5"},
-    {"id": "t9", "name": "مستخرج الأيقونات", "filename": "icon_ext.bin", "link": "https://site.com/f9.bin", "category": "عام", "description": "استخراج الأيقونات عالية الجودة من ملفات EXE و DLL.", "version": "1.0"},
-    {"id": "t10", "name": "فاحص الروابط", "filename": "url_check.bin", "link": "https://site.com/f10.bin", "category": "الأمن", "description": "التأكد من سلامة الروابط قبل فتحها للحماية من التصيد.", "version": "1.0"}
-  ]
+    "version": "1.4",
+    "url": "https://example.com/update_v1.5.exe",
+    "welcome_msg": "أهلاً بك في الإصدار المطور. تم إضافة نظام التحكم بالأدوات عن بعد!",
+    "admin_msg": "تنبيه: سيتم إجراء صيانة للخادم غداً الساعة 10 مساءً.",
+    "tools": [
+        {
+            "id": "t1",
+            "name": "أداة معالج النصوص",
+            "filename": "tool1.bin",
+            "link": "",
+            "category": "",
+            "description": "تقوم هذه الأداة بتحليل النصوص ومعالجتها: ويمكنها استخراج الروابط أو البريد الاقتروني من النصوص وغيره الكثير.",
+            "version": "1.0"
+        },
+        {
+            "id": "t2",
+            "name": "منظف الملفات المؤقتة",
+            "filename": "cleaner.bin",
+            "link": "",
+            "category": "",
+            "description": "حذف الملفات الزائدة لتسريع أداء نظام التشغيل بشكل ملحوظ.",
+            "version": "1.0"
+        },
+        {
+            "id": "t3",
+            "name": "محلل الذاكرة",
+            "filename": "ram_fix.bin",
+            "link": "https://site.com/f3.bin",
+            "category": "الصيانة",
+            "description": "تحرير مساحة الرام المغلقة من قبل العمليات غير المستجيبة.",
+            "version": "1.2"
+        },
+        {
+            "id": "t4",
+            "name": "تشفير النصوص",
+            "filename": "crypto.bin",
+            "link": "https://site.com/f4.bin",
+            "category": "الأمن",
+            "description": "تشفير النصوص والملفات باستخدام خوارزميات AES-256 المتطورة.",
+            "version": "1.0"
+        },
+        {
+            "id": "t5",
+            "name": "مدير العمليات",
+            "filename": "task_pro.bin",
+            "link": "https://site.com/f5.bin",
+            "category": "أدوات النظام",
+            "description": "بديل متطور لمدير المهام التقليدي مع عرض تفصيلي لاستهلاك الموارد.",
+            "version": "3.0"
+        },
+        {
+            "id": "t6",
+            "name": "مراقب الحرارة",
+            "filename": "temp_mon.bin",
+            "link": "https://site.com/f6.bin",
+            "category": "أدوات النظام",
+            "description": "عرض درجة حرارة المعالج وكرت الشاشة لحظة بلحظة.",
+            "version": "1.1"
+        },
+        {
+            "id": "t7",
+            "name": "تحويل الصيغ",
+            "filename": "convert.bin",
+            "link": "https://site.com/f7.bin",
+            "category": "عام",
+            "description": "تحويل الصور والمستندات بين الصيغ المختلفة بسرعة عالية.",
+            "version": "2.0"
+        },
+        {
+            "id": "t8",
+            "name": "مولد كلمات المرور",
+            "filename": "pass_gen.bin",
+            "link": "https://site.com/f8.bin",
+            "category": "الأمن",
+            "description": "توليد كلمات مرور قوية ومعقدة يصعب اختراقها.",
+            "version": "1.5"
+        },
+        {
+            "id": "t9",
+            "name": "مستخرج الأيقونات",
+            "filename": "icon_ext.bin",
+            "link": "https://site.com/f9.bin",
+            "category": "عام",
+            "description": "استخراج الأيقونات عالية الجودة من ملفات EXE و DLL.",
+            "version": "1.0"
+        },
+        {
+            "id": "t10",
+            "name": "فاحص الروابط",
+            "filename": "url_check.bin",
+            "link": "https://site.com/f10.bin",
+            "category": "الأمن",
+            "description": "التأكد من سلامة الروابط قبل فتحها للحماية من التصيد.",
+            "version": "1.0"
+        }
+    ]
 }

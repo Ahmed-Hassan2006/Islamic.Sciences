@@ -5,7 +5,7 @@
     "admin_msg": "مرحبا بك",
     "tools": [
         {
-            "id": "t1",
+            "id": "t2",
             "name": "مولد كلمات المرور",
             "filename": "t2.bin",
             "link": "https://drive.google.com/uc?export=download&id=1Jz0UeW9ydNK_Va7GgAj5Ibm9uaQdyy5z",

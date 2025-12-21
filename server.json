@@ -5,15 +5,6 @@
     "admin_msg": "",
     "tools": [
         {
-            "id": "t1",
-            "name": "أداة معالج النصوص",
-            "filename": "tool1.bin",
-            "link": "https://drive.google.com/uc?export=download&id=1BE67jqBHT8cG0S8J3ofEzciUnq3x2PEW",
-            "category": "معالجة النصوص",
-            "description": "تقوم هذه الأداة بتحليل النصوص ومعالجتها: ويمكنها استخراج الروابط أو البريد الاقتروني من النصوص وغيره الكثير.",
-            "version": "1.0"
-        },
-        {
             "id": "t2",
             "name": "مولد كلمات المرور",
             "filename": "t2.bin",
@@ -21,6 +12,15 @@
             "category": "الأمان والتشفير",
             "description": "هل سبق لك أن هناك موقع أو خدمة صارمة في تكوين كلمات المرور، هذه الأداة سوف تحل لك هذه المشكلة.",
             "version": "1.1"
+        },
+        {
+            "id": "t1",
+            "name": "معالج النصوص",
+            "filename": "t1.bin",
+            "link": "https://drive.google.com/uc?export=download&id=1BE67jqBHT8cG0S8J3ofEzciUnq3x2PEW",
+            "category": "معالجة النصوص",
+            "description": "هذه الأداة يمكنها استخراج الروابط من النصوص والبريد الاكتروني زائد تنظيف النص أو استبدال شيء في النص: كل هذا مع الأداة هذه والمزيد.",
+            "version": "1.0"
         }
     ]
 }

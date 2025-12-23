@@ -5,13 +5,13 @@
     "admin_msg": "مرحبا بك",
     "tools": [
         {
-            "id": "test1",
+            "id": "t1",
             "name": "مولد كلمات المرور",
-            "filename": "t1.bin",
-            "link": "https://drive.google.com/uc?export=download&id=1idTf0h3GBIzFd3lcI8SHmMji_GNKMCEP",
+            "filename": "Password generator.bin",
+            "link": "https://drive.google.com/uc?export=download&id=1Zf2fif8lS5UR8ITJLvI8BtmSM-794QIu",
             "category": "الأمان والتشفير",
             "description": "هل سبق لك أن هناك موقع أو خدمة صارمة في تكوين كلمات المرور، هذه الأداة سوف تحل لك هذه المشكلة.",
-            "version": "2.0"
+            "version": "1.0"
         }
     ]
 }

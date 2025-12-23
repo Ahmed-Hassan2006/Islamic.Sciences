@@ -15,7 +15,7 @@
         {
             "name": "أداة التحكم في GitHub",
             "filename": "GitHubController.t",
-            "link": "https://raw.githubusercontent.com/Ahmed-Hassan2006/my-server/main/tools/أدوات متقدمة/أداة التحكم في GitHup.t",
+            "link": "https://raw.githubusercontent.com/Ahmed-Hassan2006/my-server/main/tools/أدوات متقدمة/أداة التحكم في GitHup.py",
             "category": "أدوات متقدمة",
             "description": "هل فكرت في يوم أن ترفع ملفاتك وتنشئ مستودعات على GitHub ولكن التعامل على الويب أو البرنامج فيه صعوبة؟ لا تقلق الآن هذه الأداة هي الحل. فقط قم بجلب التوكن الخاص بحسابك وسوف تتحكم في أغلبية الأشياء بكل بساطة.",
             "version": "1.0",

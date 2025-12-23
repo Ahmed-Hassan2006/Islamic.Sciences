@@ -1,28 +1,24 @@
 {
-    "version": "1.7",
-    "url": "https://example.com/update_v1.5.exe",
-    "welcome_msg": "مرحبا بك في البرنامج: هذا الاصدار تجريبي، وسوف نقوم باصدار النسخة الرسمية قريبا شكرً على تنزيل برنامجنا",
+    "version": "2.5",
+    "url": "https://example.com/update_v2.5.exe",
+    "welcome_msg": "مرحبا بك في البرنامج: هذا الاصدار تجريبي، وسوف نقوم باصدار النسخة الرسمية قريبا. شكراً على تنزيل برنامجنا",
     "admin_msg": "مرحبا بك",
     "tools": [
         {
-            "id": "t1",
             "name": "مولد كلمات المرور",
-            "filename": "start.bin",
+            "filename": "PasswordGen.t",
             "link": "https://raw.githubusercontent.com/Ahmed-Hassan2006/my-server/main/tools/منشئ كلمات المرور.t",
             "category": "الأمان والتشفير",
             "description": "هل سبق لك أن هناك موقع أو خدمة صارمة في تكوين كلمات المرور، هذه الأداة سوف تحل لك هذه المشكلة.",
-            "version": "1.0",
-            "folder_name": "Password generator"
+            "version": "1.0"
         },
         {
-            "id": "t2",
             "name": "أداة التحكم في GitHub",
-            "folder_name": "أداة التحكم في GitHub",
+            "filename": "GitHubController.t",
             "link": "https://raw.githubusercontent.com/Ahmed-Hassan2006/my-server/main/tools/أداة التحكم في GitHub.t",
             "category": "أدوات متقدمة",
-            "description": "هل فكرت في يوم أن ترفع ملفاتك وتنشئ مستودعات علىGitHub ولكن التعامل على الويب أو البرنامج فيه صعوبة: لا تقلق الآن هذه الأداة هي الحل. فقت قم بجلب التوكن الخاص بحسابك وسوف تتحكم في أغلبية الأشياء بكل بصاطة. ملحوظة يرجى معرفة بيناتك مهمة لذلك كل شيء آمن ولا يتم معرفة بيناتك حتى المطور.",
-            "version": "1.0",
-            "filename": "start.bin"
+            "description": "هل فكرت في يوم أن ترفع ملفاتك وتنشئ مستودعات على GitHub ولكن التعامل على الويب أو البرنامج فيه صعوبة؟ لا تقلق الآن هذه الأداة هي الحل. فقط قم بجلب التوكن الخاص بحسابك وسوف تتحكم في أغلبية الأشياء بكل بساطة.",
+            "version": "1.0"
         }
     ]
 }

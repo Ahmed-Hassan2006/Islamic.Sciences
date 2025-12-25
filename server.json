@@ -1,46 +1,46 @@
 {
-    "version": "2.5",
-    "url": "https://example.com/update_v2.5.exe",
+    "version": "2.6",
+    "url": "https://example.com/update_v2.6.exe",
     "welcome_msg": {
-        "English": "",
-        "عربي": "مرحبا بك في البرنامج: هذا الاصدار تجريبي، وسوف نقوم باصدار النسخة الرسمية قريبا."
+        "English": "Welcome to ATC: Download and manage your tools easily.",
+        "عربي": "مرحبا بك في مركز الأدوات: قم بإدارة وتحميل أدواتك بسهولة."
     },
     "admin_msg": {
-        "English": "",
+        "English": "Welcome",
         "عربي": "مرحبا بك"
     },
     "tools": [
         {
             "name": {
-                "English": "",
+                "English": "Password Generator",
                 "عربي": "مولد كلمات المرور"
             },
-            "filename": "PasswordGen.t",
-            "link": "https://raw.githubusercontent.com/Ahmed-Hassan2006/my-server/main/tools/PasswordGen.t",
+            "filename": "t1.t",
+            "link": "https://raw.githubusercontent.com/Ahmed-Hassan2006/my-server/main/tools/t1.t",
             "category": {
-                "English": "",
+                "English": "Security & Crypto",
                 "عربي": "الأمان والتشفير"
             },
             "description": {
-                "English": "",
-                "عربي": "هل سبق لك أن هناك موقع أو خدمة صارمة في تكوين كلمات المرور، هذه الأداة سوف تحل لك هذه المشكلة."
+                "English": "Generate strong and secure passwords easily.",
+                "عربي": "أداة لتوليد كلمات مرور قوية ومعقدة لحماية حساباتك."
             },
             "version": "1.0"
         },
         {
             "name": {
-                "English": "",
-                "عربي": "التحكم في GitHup"
+                "English": "GitHub Controller",
+                "عربي": "التحكم في GitHub"
             },
             "filename": "GitHubController.t",
             "link": "https://raw.githubusercontent.com/Ahmed-Hassan2006/my-server/main/tools/GitHubController.t",
             "category": {
-                "English": "",
+                "English": "Advanced Tools",
                 "عربي": "أدوات متقدمة"
             },
             "description": {
-                "English": "",
-                "عربي": "هل فكرت في يوم أن ترفع ملفاتك وتنشئ مستودعات على GitHub ولكن التعامل على الويب أو البرنامج فيه صعوبة؟ لا تقلق الآن هذه الأداة هي الحل. فقط قم بجلب التوكن الخاص بحسابك وسوف تتحكم في أغلبية الأشياء بكل بساطة."
+                "English": "Manage GitHub repositories easily.",
+                "عربي": "تحكم في مستودعات GitHub وارفع الملفات بسهولة."
             },
             "version": "1.0"
         }

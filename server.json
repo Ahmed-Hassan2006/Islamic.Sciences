@@ -2,54 +2,44 @@
     "version": "2.5",
     "url": "https://example.com/update_v2.5.exe",
     "welcome_msg": {
-        "en": "Welcome: This is a beta version, official release coming soon.",
-        "English": "",
-        "عربي": "مرحبا بك في البرنامج: هذا الاصدار تجريبي، وسوف نقوم باصدار النسخة الرسمية قريبا.",
-
+        "English": "Welcome: This is a beta version, official release coming soon.",
+        "عربي": "مرحبا بك في البرنامج: هذا الاصدار تجريبي، وسوف نقوم باصدار النسخة الرسمية قريبا."
     },
     "admin_msg": {
-        "en": "Welcome User",
-        "English": "",
+        "English": "Welcome User",
         "عربي": "مرحبا بك"
     },
     "tools": [
         {
             "name": {
-                "en": "Password Generator",
-                "English": "",
+                "English": "Password Generator",
                 "عربي": "مولد كلمات المرور"
             },
             "filename": "PasswordGen.t",
             "link": "https://raw.githubusercontent.com/Ahmed-Hassan2006/my-server/main/tools/PasswordGen.t",
             "category": {
-                "en": "Security & Crypto",
-                "English": "",
+                "English": "Security & Crypto",
                 "عربي": "الأمان والتشفير"
             },
             "description": {
-                "en": "Generate strong and secure passwords easily with this tool.",
-                "English": "",
+                "English": "Generate strong and secure passwords easily with this tool.",
                 "عربي": "هل سبق لك أن هناك موقع أو خدمة صارمة في تكوين كلمات المرور، هذه الأداة سوف تحل لك هذه المشكلة."
             },
             "version": "1.0"
         },
         {
             "name": {
-
-                "en": "GitHub Controller",
-                "English": "",
+                "English": "GitHub Controller",
                 "عربي": "التحكم في GitHup"
             },
             "filename": "GitHubController.t",
             "link": "https://raw.githubusercontent.com/Ahmed-Hassan2006/my-server/main/tools/GitHubController.t",
             "category": {
-                "en": "Advanced Tools",
-                "English": "",
+                "English": "Advanced Tools",
                 "عربي": "أدوات متقدمة"
             },
             "description": {
-                "en": "Manage your GitHub repositories and upload files easily without using the web interface.",
-                "English": "",
+                "English": "Manage your GitHub repositories and upload files easily without using the web interface.",
                 "عربي": "هل فكرت في يوم أن ترفع ملفاتك وتنشئ مستودعات على GitHub ولكن التعامل على الويب أو البرنامج فيه صعوبة؟ لا تقلق الآن هذه الأداة هي الحل. فقط قم بجلب التوكن الخاص بحسابك وسوف تتحكم في أغلبية الأشياء بكل بساطة."
             },
             "version": "1.0"

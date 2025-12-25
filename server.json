@@ -2,45 +2,57 @@
     "version": "2.5",
     "url": "https://example.com/update_v2.5.exe",
     "welcome_msg": {
-        "ar": "مرحبا بك في البرنامج: هذا الاصدار تجريبي، وسوف نقوم باصدار النسخة الرسمية قريبا.",
-        "en": "Welcome: This is a beta version, official release coming soon."
+        "en": "Welcome: This is a beta version, official release coming soon.",
+        "English": "Welcome to the program: This is a trial version, and we will release the official version soon.",
+        "عربي": "مرحبا بك في البرنامج: هذا الاصدار تجريبي، وسوف نقوم باصدار النسخة الرسمية قريبا."
     },
     "admin_msg": {
-        "ar": "مرحبا بك",
-        "en": "Welcome User"
+        "en": "Welcome User",
+        "English": "",
+        "عربي": "مرحبا بك"
     },
     "tools": [
         {
             "name": {
                 "ar": "مولد كلمات المرور",
-                "en": "Password Generator"
+                "en": "Password Generator",
+                "English": "Password Generator",
+                "العربية": "",
+                "عربي": "مولد كلمات المرور"
             },
             "filename": "PasswordGen.t",
             "link": "https://raw.githubusercontent.com/Ahmed-Hassan2006/my-server/main/tools/PasswordGen.t",
             "category": {
                 "ar": "الأمان والتشفير",
-                "en": "Security & Crypto"
+                "en": "Security & Crypto",
+                "English": "",
+                "عربي": "الأمان والتشفير"
             },
             "description": {
                 "ar": "هل سبق لك أن هناك موقع أو خدمة صارمة في تكوين كلمات المرور، هذه الأداة سوف تحل لك هذه المشكلة.",
-                "en": "Generate strong and secure passwords easily with this tool."
+                "en": "Generate strong and secure passwords easily with this tool.",
+                "English": "",
+                "عربي": "هل سبق لك أن هناك موقع أو خدمة صارمة في تكوين كلمات المرور، هذه الأداة سوف تحل لك هذه المشكلة."
             },
             "version": "1.0"
         },
         {
             "name": {
-                "ar": "أداة التحكم في GitHub",
-                "en": "GitHub Controller"
+                "ar": "مولد كلمات المرور",
+                "en": "GitHub Controller",
+                "English": ""
             },
             "filename": "GitHubController.t",
             "link": "https://raw.githubusercontent.com/Ahmed-Hassan2006/my-server/main/tools/GitHubController.t",
             "category": {
                 "ar": "أدوات متقدمة",
-                "en": "Advanced Tools"
+                "en": "Advanced Tools",
+                "English": ""
             },
             "description": {
-                "ar": "هل فكرت في يوم أن ترفع ملفاتك وتنشئ مستودعات على GitHub ولكن التعامل على الويب أو البرنامج فيه صعوبة؟ لا تقلق الآن هذه الأداة هي الحل.",
-                "en": "Manage your GitHub repositories and upload files easily without using the web interface."
+                "ar": "هل سبق لك أن هناك موقع أو خدمة صارمة في تكوين كلمات المرور، هذه الأداة سوف تحل لك هذه المشكلة.",
+                "en": "Manage your GitHub repositories and upload files easily without using the web interface.",
+                "English": ""
             },
             "version": "1.0"
         }

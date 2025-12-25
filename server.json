@@ -3,8 +3,9 @@
     "url": "https://example.com/update_v2.5.exe",
     "welcome_msg": {
         "en": "Welcome: This is a beta version, official release coming soon.",
-        "English": "Welcome to the program: This is a trial version, and we will release the official version soon.",
-        "عربي": "مرحبا بك في البرنامج: هذا الاصدار تجريبي، وسوف نقوم باصدار النسخة الرسمية قريبا."
+        "English": "",
+        "عربي": "مرحبا بك في البرنامج: هذا الاصدار تجريبي، وسوف نقوم باصدار النسخة الرسمية قريبا.",
+        "ar": ""
     },
     "admin_msg": {
         "en": "Welcome User",
@@ -16,7 +17,7 @@
             "name": {
                 "ar": "مولد كلمات المرور",
                 "en": "Password Generator",
-                "English": "Password Generator",
+                "English": "",
                 "العربية": "",
                 "عربي": "مولد كلمات المرور"
             },
@@ -40,19 +41,22 @@
             "name": {
                 "ar": "مولد كلمات المرور",
                 "en": "GitHub Controller",
-                "English": ""
+                "English": "",
+                "عربي": "التحكم في GitHup"
             },
             "filename": "GitHubController.t",
             "link": "https://raw.githubusercontent.com/Ahmed-Hassan2006/my-server/main/tools/GitHubController.t",
             "category": {
                 "ar": "أدوات متقدمة",
                 "en": "Advanced Tools",
-                "English": ""
+                "English": "",
+                "عربي": "أدوات متقدمة"
             },
             "description": {
                 "ar": "هل سبق لك أن هناك موقع أو خدمة صارمة في تكوين كلمات المرور، هذه الأداة سوف تحل لك هذه المشكلة.",
                 "en": "Manage your GitHub repositories and upload files easily without using the web interface.",
-                "English": ""
+                "English": "",
+                "عربي": "هل فكرت في يوم أن ترفع ملفاتك وتنشئ مستودعات على GitHub ولكن التعامل على الويب أو البرنامج فيه صعوبة؟ لا تقلق الآن هذه الأداة هي الحل. فقط قم بجلب التوكن الخاص بحسابك وسوف تتحكم في أغلبية الأشياء بكل بساطة."
             },
             "version": "1.0"
         }
